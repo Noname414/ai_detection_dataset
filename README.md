@@ -53,37 +53,22 @@ ai_detection_dataset/
 
 ## 4.1 Visual Examples
 
-Below are direct examples from this dataset, shown in side-by-side grids.
+The examples below are aligned as one row per transformation:
 
-### Real Images
+- source identity (reference)
+- target identity before swap
+- swapped result (source -> target)
+- shared mask for both target and fake sample (same semantic region)
 
-| Harry | JackieChan | Jensen |
-|---|---|---|
-| ![Harry](images/real/Harry.png) | ![JackieChan](images/real/JackieChan.png) | ![Jensen](images/real/Jensen.png) |
+### Paired Before/After Examples
 
-| LaiChing-te | Malala | |
-|---|---|---|
-| ![LaiChing-te](images/real/LaiChing-te.png) | ![Malala](images/real/Malala.png) | |
-
-### Fake Images
-
-| Harry->JackieChan | Harry->Jensen | Harry->LaiChing-te |
-|---|---|---|
-| ![Harry to JackieChan](images/fake/Harry_JackieChan.png) | ![Harry to Jensen](images/fake/Harry_Jensen.png) | ![Harry to LaiChing-te](images/fake/Harry_LaiChing-te.png) |
-
-| Harry->Malala | Harry->Mana | |
-|---|---|---|
-| ![Harry to Malala](images/fake/Harry_Malala.png) | ![Harry to Mana](images/fake/Harry_Mana.png) | |
-
-### Corresponding Masks
-
-| Real Mask (Harry) | Fake Mask (Harry->Jensen) | Fake Mask (Harry->Malala) |
-|---|---|---|
-| ![Harry Real Mask](masks/real/Harry_mask.png) | ![Harry Jensen Fake Mask](masks/fake/Harry_Jensen_mask.png) | ![Harry Malala Fake Mask](masks/fake/Harry_Malala_mask.png) |
-
-| Real Mask (Jensen) | Fake Mask (Harry->JackieChan) | Fake Mask (Harry->LaiChing-te) |
-|---|---|---|
-| ![Jensen Real Mask](masks/real/Jensen_mask.png) | ![Harry JackieChan Fake Mask](masks/fake/Harry_JackieChan_mask.png) | ![Harry LaiChing-te Fake Mask](masks/fake/Harry_LaiChing-te_mask.png) |
+| Source (Reference) | Target (Before) | Swapped (After) | Mask |
+|---|---|---|---|
+| ![Source Harry](images/real/Harry.png) | ![Target Jensen](images/real/Jensen.png) | ![Swapped Harry to Jensen](images/fake/Harry_Jensen.png) | ![Jensen Mask](masks/real/Jensen_mask.png) |
+| ![Source Harry](images/real/Harry.png) | ![Target JackieChan](images/real/JackieChan.png) | ![Swapped Harry to JackieChan](images/fake/Harry_JackieChan.png) | ![JackieChan Mask](masks/real/JackieChan_mask.png) |
+| ![Source Harry](images/real/Harry.png) | ![Target Malala](images/real/Malala.png) | ![Swapped Harry to Malala](images/fake/Harry_Malala.png) | ![Malala Mask](masks/real/Malala_mask.png) |
+| ![Source Jensen](images/real/Jensen.png) | ![Target Harry](images/real/Harry.png) | ![Swapped Jensen to Harry](images/fake/Jensen_Harry.png) | ![Harry Mask](masks/real/Harry_mask.png) |
+| ![Source Jensen](images/real/Jensen.png) | ![Target LaiChing-te](images/real/LaiChing-te.png) | ![Swapped Jensen to LaiChing-te](images/fake/Jensen_LaiChing-te.png) | ![LaiChing-te Mask](masks/real/LaiChing-te_mask.png) |
 
 ## 5. File Format
 
