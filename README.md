@@ -51,6 +51,35 @@ ai_detection_dataset/
 └── README.md
 ```
 
+## 4.1 Visual Examples
+
+Below are direct examples from this dataset.
+
+### Real Sample
+
+![Real Example](images/real/Harry.png)
+
+### Fake Sample
+
+![Fake Example](images/fake/Harry_Jensen.png)
+
+### Real Mask
+
+![Real Mask Example](masks/real/Harry_mask.png)
+
+### Fake Mask
+
+![Fake Mask Example](masks/fake/Harry_Jensen_mask.png)
+
+### Side-by-side Quick View
+
+| Type | Preview |
+|---|---|
+| Real | ![Real Side](images/real/Jensen.png) |
+| Fake | ![Fake Side](images/fake/Harry_Jensen.png) |
+| Real Mask | ![Real Mask Side](masks/real/Jensen_mask.png) |
+| Fake Mask | ![Fake Mask Side](masks/fake/Harry_Jensen_mask.png) |
+
 ## 5. File Format
 
 ### 5.1 `splits/train.csv`, `splits/val.csv`, `splits/test.csv`
