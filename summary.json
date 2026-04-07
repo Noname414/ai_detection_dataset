@@ -1,0 +1,16 @@
+{
+  "real_total": 11,
+  "fake_total": 110,
+  "mask_total": 121,
+  "self_swaps_removed": 11,
+  "train_total": 97,
+  "val_total": 12,
+  "test_total": 12,
+  "train_real": 9,
+  "train_fake": 88,
+  "val_real": 1,
+  "val_fake": 11,
+  "test_real": 1,
+  "test_fake": 11,
+  "seed": 42
+}

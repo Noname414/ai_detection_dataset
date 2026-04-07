@@ -1,0 +1,122 @@
+path,mask_path,label,split,filename,source
+images/fake/Fei-Fei Li_Harry.png,masks/fake/Fei-Fei Li_Harry_mask.png,1,train,Fei-Fei Li_Harry.png,output_512_pairwise_swap/Fei-Fei Li_Harry.png
+images/fake/LaiChing-te_Fei-Fei Li.png,masks/fake/LaiChing-te_Fei-Fei Li_mask.png,1,train,LaiChing-te_Fei-Fei Li.png,output_512_pairwise_swap/LaiChing-te_Fei-Fei Li.png
+images/fake/Fei-Fei Li_Mana.png,masks/fake/Fei-Fei Li_Mana_mask.png,1,train,Fei-Fei Li_Mana.png,output_512_pairwise_swap/Fei-Fei Li_Mana.png
+images/fake/Mana_Harry.png,masks/fake/Mana_Harry_mask.png,1,train,Mana_Harry.png,output_512_pairwise_swap/Mana_Harry.png
+images/fake/Marilyn_Sam.png,masks/fake/Marilyn_Sam_mask.png,1,train,Marilyn_Sam.png,output_512_pairwise_swap/Marilyn_Sam.png
+images/fake/Oprah_LaiChing-te.png,masks/fake/Oprah_LaiChing-te_mask.png,1,train,Oprah_LaiChing-te.png,output_512_pairwise_swap/Oprah_LaiChing-te.png
+images/real/Jensen.png,masks/real/Jensen_mask.png,0,train,Jensen.png,output_512/Jensen.png
+images/fake/Fei-Fei Li_Jensen.png,masks/fake/Fei-Fei Li_Jensen_mask.png,1,train,Fei-Fei Li_Jensen.png,output_512_pairwise_swap/Fei-Fei Li_Jensen.png
+images/fake/Malala_Marilyn.png,masks/fake/Malala_Marilyn_mask.png,1,train,Malala_Marilyn.png,output_512_pairwise_swap/Malala_Marilyn.png
+images/fake/Harry_Sam.png,masks/fake/Harry_Sam_mask.png,1,train,Harry_Sam.png,output_512_pairwise_swap/Harry_Sam.png
+images/fake/JackieChan_Malala.png,masks/fake/JackieChan_Malala_mask.png,1,train,JackieChan_Malala.png,output_512_pairwise_swap/JackieChan_Malala.png
+images/fake/Fei-Fei Li_Yann.png,masks/fake/Fei-Fei Li_Yann_mask.png,1,train,Fei-Fei Li_Yann.png,output_512_pairwise_swap/Fei-Fei Li_Yann.png
+images/fake/Malala_Yann.png,masks/fake/Malala_Yann_mask.png,1,train,Malala_Yann.png,output_512_pairwise_swap/Malala_Yann.png
+images/fake/Harry_Jensen.png,masks/fake/Harry_Jensen_mask.png,1,train,Harry_Jensen.png,output_512_pairwise_swap/Harry_Jensen.png
+images/fake/LaiChing-te_JackieChan.png,masks/fake/LaiChing-te_JackieChan_mask.png,1,train,LaiChing-te_JackieChan.png,output_512_pairwise_swap/LaiChing-te_JackieChan.png
+images/fake/Malala_Jensen.png,masks/fake/Malala_Jensen_mask.png,1,train,Malala_Jensen.png,output_512_pairwise_swap/Malala_Jensen.png
+images/fake/Mana_Fei-Fei Li.png,masks/fake/Mana_Fei-Fei Li_mask.png,1,train,Mana_Fei-Fei Li.png,output_512_pairwise_swap/Mana_Fei-Fei Li.png
+images/fake/Harry_Fei-Fei Li.png,masks/fake/Harry_Fei-Fei Li_mask.png,1,train,Harry_Fei-Fei Li.png,output_512_pairwise_swap/Harry_Fei-Fei Li.png
+images/fake/Jensen_Malala.png,masks/fake/Jensen_Malala_mask.png,1,train,Jensen_Malala.png,output_512_pairwise_swap/Jensen_Malala.png
+images/fake/LaiChing-te_Oprah.png,masks/fake/LaiChing-te_Oprah_mask.png,1,train,LaiChing-te_Oprah.png,output_512_pairwise_swap/LaiChing-te_Oprah.png
+images/fake/Mana_Malala.png,masks/fake/Mana_Malala_mask.png,1,train,Mana_Malala.png,output_512_pairwise_swap/Mana_Malala.png
+images/fake/LaiChing-te_Malala.png,masks/fake/LaiChing-te_Malala_mask.png,1,train,LaiChing-te_Malala.png,output_512_pairwise_swap/LaiChing-te_Malala.png
+images/fake/Marilyn_LaiChing-te.png,masks/fake/Marilyn_LaiChing-te_mask.png,1,train,Marilyn_LaiChing-te.png,output_512_pairwise_swap/Marilyn_LaiChing-te.png
+images/fake/Oprah_JackieChan.png,masks/fake/Oprah_JackieChan_mask.png,1,train,Oprah_JackieChan.png,output_512_pairwise_swap/Oprah_JackieChan.png
+images/fake/Marilyn_Oprah.png,masks/fake/Marilyn_Oprah_mask.png,1,train,Marilyn_Oprah.png,output_512_pairwise_swap/Marilyn_Oprah.png
+images/fake/LaiChing-te_Marilyn.png,masks/fake/LaiChing-te_Marilyn_mask.png,1,train,LaiChing-te_Marilyn.png,output_512_pairwise_swap/LaiChing-te_Marilyn.png
+images/fake/Oprah_Jensen.png,masks/fake/Oprah_Jensen_mask.png,1,train,Oprah_Jensen.png,output_512_pairwise_swap/Oprah_Jensen.png
+images/real/Fei-Fei Li.png,masks/real/Fei-Fei Li_mask.png,0,train,Fei-Fei Li.png,output_512/Fei-Fei Li.png
+images/fake/JackieChan_Harry.png,masks/fake/JackieChan_Harry_mask.png,1,train,JackieChan_Harry.png,output_512_pairwise_swap/JackieChan_Harry.png
+images/fake/Sam_Harry.png,masks/fake/Sam_Harry_mask.png,1,train,Sam_Harry.png,output_512_pairwise_swap/Sam_Harry.png
+images/fake/Harry_Yann.png,masks/fake/Harry_Yann_mask.png,1,train,Harry_Yann.png,output_512_pairwise_swap/Harry_Yann.png
+images/fake/LaiChing-te_Harry.png,masks/fake/LaiChing-te_Harry_mask.png,1,train,LaiChing-te_Harry.png,output_512_pairwise_swap/LaiChing-te_Harry.png
+images/fake/Yann_JackieChan.png,masks/fake/Yann_JackieChan_mask.png,1,train,Yann_JackieChan.png,output_512_pairwise_swap/Yann_JackieChan.png
+images/fake/Mana_Marilyn.png,masks/fake/Mana_Marilyn_mask.png,1,train,Mana_Marilyn.png,output_512_pairwise_swap/Mana_Marilyn.png
+images/fake/Sam_JackieChan.png,masks/fake/Sam_JackieChan_mask.png,1,train,Sam_JackieChan.png,output_512_pairwise_swap/Sam_JackieChan.png
+images/fake/Yann_Oprah.png,masks/fake/Yann_Oprah_mask.png,1,train,Yann_Oprah.png,output_512_pairwise_swap/Yann_Oprah.png
+images/fake/Sam_Oprah.png,masks/fake/Sam_Oprah_mask.png,1,train,Sam_Oprah.png,output_512_pairwise_swap/Sam_Oprah.png
+images/fake/Malala_Fei-Fei Li.png,masks/fake/Malala_Fei-Fei Li_mask.png,1,train,Malala_Fei-Fei Li.png,output_512_pairwise_swap/Malala_Fei-Fei Li.png
+images/fake/Fei-Fei Li_Sam.png,masks/fake/Fei-Fei Li_Sam_mask.png,1,train,Fei-Fei Li_Sam.png,output_512_pairwise_swap/Fei-Fei Li_Sam.png
+images/fake/Mana_Jensen.png,masks/fake/Mana_Jensen_mask.png,1,train,Mana_Jensen.png,output_512_pairwise_swap/Mana_Jensen.png
+images/fake/Mana_Oprah.png,masks/fake/Mana_Oprah_mask.png,1,train,Mana_Oprah.png,output_512_pairwise_swap/Mana_Oprah.png
+images/fake/Jensen_LaiChing-te.png,masks/fake/Jensen_LaiChing-te_mask.png,1,train,Jensen_LaiChing-te.png,output_512_pairwise_swap/Jensen_LaiChing-te.png
+images/fake/JackieChan_Marilyn.png,masks/fake/JackieChan_Marilyn_mask.png,1,train,JackieChan_Marilyn.png,output_512_pairwise_swap/JackieChan_Marilyn.png
+images/fake/Marilyn_Jensen.png,masks/fake/Marilyn_Jensen_mask.png,1,train,Marilyn_Jensen.png,output_512_pairwise_swap/Marilyn_Jensen.png
+images/fake/Harry_Marilyn.png,masks/fake/Harry_Marilyn_mask.png,1,train,Harry_Marilyn.png,output_512_pairwise_swap/Harry_Marilyn.png
+images/fake/Jensen_Marilyn.png,masks/fake/Jensen_Marilyn_mask.png,1,train,Jensen_Marilyn.png,output_512_pairwise_swap/Jensen_Marilyn.png
+images/real/LaiChing-te.png,masks/real/LaiChing-te_mask.png,0,train,LaiChing-te.png,output_512/LaiChing-te.png
+images/fake/Oprah_Fei-Fei Li.png,masks/fake/Oprah_Fei-Fei Li_mask.png,1,train,Oprah_Fei-Fei Li.png,output_512_pairwise_swap/Oprah_Fei-Fei Li.png
+images/fake/Sam_Fei-Fei Li.png,masks/fake/Sam_Fei-Fei Li_mask.png,1,train,Sam_Fei-Fei Li.png,output_512_pairwise_swap/Sam_Fei-Fei Li.png
+images/fake/Fei-Fei Li_Marilyn.png,masks/fake/Fei-Fei Li_Marilyn_mask.png,1,train,Fei-Fei Li_Marilyn.png,output_512_pairwise_swap/Fei-Fei Li_Marilyn.png
+images/real/JackieChan.png,masks/real/JackieChan_mask.png,0,train,JackieChan.png,output_512/JackieChan.png
+images/fake/Mana_Sam.png,masks/fake/Mana_Sam_mask.png,1,train,Mana_Sam.png,output_512_pairwise_swap/Mana_Sam.png
+images/fake/Jensen_Oprah.png,masks/fake/Jensen_Oprah_mask.png,1,train,Jensen_Oprah.png,output_512_pairwise_swap/Jensen_Oprah.png
+images/fake/Oprah_Yann.png,masks/fake/Oprah_Yann_mask.png,1,train,Oprah_Yann.png,output_512_pairwise_swap/Oprah_Yann.png
+images/fake/Jensen_JackieChan.png,masks/fake/Jensen_JackieChan_mask.png,1,train,Jensen_JackieChan.png,output_512_pairwise_swap/Jensen_JackieChan.png
+images/fake/Jensen_Yann.png,masks/fake/Jensen_Yann_mask.png,1,train,Jensen_Yann.png,output_512_pairwise_swap/Jensen_Yann.png
+images/fake/Malala_Sam.png,masks/fake/Malala_Sam_mask.png,1,train,Malala_Sam.png,output_512_pairwise_swap/Malala_Sam.png
+images/real/Mana.png,masks/real/Mana_mask.png,0,train,Mana.png,output_512/Mana.png
+images/real/Sam.png,masks/real/Sam_mask.png,0,train,Sam.png,output_512/Sam.png
+images/fake/Jensen_Fei-Fei Li.png,masks/fake/Jensen_Fei-Fei Li_mask.png,1,train,Jensen_Fei-Fei Li.png,output_512_pairwise_swap/Jensen_Fei-Fei Li.png
+images/fake/Yann_Sam.png,masks/fake/Yann_Sam_mask.png,1,train,Yann_Sam.png,output_512_pairwise_swap/Yann_Sam.png
+images/fake/Marilyn_JackieChan.png,masks/fake/Marilyn_JackieChan_mask.png,1,train,Marilyn_JackieChan.png,output_512_pairwise_swap/Marilyn_JackieChan.png
+images/fake/Yann_Jensen.png,masks/fake/Yann_Jensen_mask.png,1,train,Yann_Jensen.png,output_512_pairwise_swap/Yann_Jensen.png
+images/fake/Sam_Yann.png,masks/fake/Sam_Yann_mask.png,1,train,Sam_Yann.png,output_512_pairwise_swap/Sam_Yann.png
+images/fake/LaiChing-te_Mana.png,masks/fake/LaiChing-te_Mana_mask.png,1,train,LaiChing-te_Mana.png,output_512_pairwise_swap/LaiChing-te_Mana.png
+images/fake/Marilyn_Yann.png,masks/fake/Marilyn_Yann_mask.png,1,train,Marilyn_Yann.png,output_512_pairwise_swap/Marilyn_Yann.png
+images/fake/JackieChan_Fei-Fei Li.png,masks/fake/JackieChan_Fei-Fei Li_mask.png,1,train,JackieChan_Fei-Fei Li.png,output_512_pairwise_swap/JackieChan_Fei-Fei Li.png
+images/fake/Marilyn_Fei-Fei Li.png,masks/fake/Marilyn_Fei-Fei Li_mask.png,1,train,Marilyn_Fei-Fei Li.png,output_512_pairwise_swap/Marilyn_Fei-Fei Li.png
+images/real/Marilyn.png,masks/real/Marilyn_mask.png,0,train,Marilyn.png,output_512/Marilyn.png
+images/fake/JackieChan_Mana.png,masks/fake/JackieChan_Mana_mask.png,1,train,JackieChan_Mana.png,output_512_pairwise_swap/JackieChan_Mana.png
+images/fake/JackieChan_LaiChing-te.png,masks/fake/JackieChan_LaiChing-te_mask.png,1,train,JackieChan_LaiChing-te.png,output_512_pairwise_swap/JackieChan_LaiChing-te.png
+images/fake/Sam_Marilyn.png,masks/fake/Sam_Marilyn_mask.png,1,train,Sam_Marilyn.png,output_512_pairwise_swap/Sam_Marilyn.png
+images/fake/Sam_Jensen.png,masks/fake/Sam_Jensen_mask.png,1,train,Sam_Jensen.png,output_512_pairwise_swap/Sam_Jensen.png
+images/fake/Sam_Malala.png,masks/fake/Sam_Malala_mask.png,1,train,Sam_Malala.png,output_512_pairwise_swap/Sam_Malala.png
+images/fake/Mana_JackieChan.png,masks/fake/Mana_JackieChan_mask.png,1,train,Mana_JackieChan.png,output_512_pairwise_swap/Mana_JackieChan.png
+images/fake/Jensen_Sam.png,masks/fake/Jensen_Sam_mask.png,1,train,Jensen_Sam.png,output_512_pairwise_swap/Jensen_Sam.png
+images/fake/LaiChing-te_Jensen.png,masks/fake/LaiChing-te_Jensen_mask.png,1,train,LaiChing-te_Jensen.png,output_512_pairwise_swap/LaiChing-te_Jensen.png
+images/fake/Yann_Fei-Fei Li.png,masks/fake/Yann_Fei-Fei Li_mask.png,1,train,Yann_Fei-Fei Li.png,output_512_pairwise_swap/Yann_Fei-Fei Li.png
+images/fake/Fei-Fei Li_Oprah.png,masks/fake/Fei-Fei Li_Oprah_mask.png,1,train,Fei-Fei Li_Oprah.png,output_512_pairwise_swap/Fei-Fei Li_Oprah.png
+images/fake/LaiChing-te_Yann.png,masks/fake/LaiChing-te_Yann_mask.png,1,train,LaiChing-te_Yann.png,output_512_pairwise_swap/LaiChing-te_Yann.png
+images/fake/Malala_Mana.png,masks/fake/Malala_Mana_mask.png,1,train,Malala_Mana.png,output_512_pairwise_swap/Malala_Mana.png
+images/fake/Malala_Oprah.png,masks/fake/Malala_Oprah_mask.png,1,train,Malala_Oprah.png,output_512_pairwise_swap/Malala_Oprah.png
+images/fake/Marilyn_Harry.png,masks/fake/Marilyn_Harry_mask.png,1,train,Marilyn_Harry.png,output_512_pairwise_swap/Marilyn_Harry.png
+images/real/Malala.png,masks/real/Malala_mask.png,0,train,Malala.png,output_512/Malala.png
+images/fake/Oprah_Sam.png,masks/fake/Oprah_Sam_mask.png,1,train,Oprah_Sam.png,output_512_pairwise_swap/Oprah_Sam.png
+images/fake/LaiChing-te_Sam.png,masks/fake/LaiChing-te_Sam_mask.png,1,train,LaiChing-te_Sam.png,output_512_pairwise_swap/LaiChing-te_Sam.png
+images/fake/Fei-Fei Li_JackieChan.png,masks/fake/Fei-Fei Li_JackieChan_mask.png,1,train,Fei-Fei Li_JackieChan.png,output_512_pairwise_swap/Fei-Fei Li_JackieChan.png
+images/fake/Malala_Harry.png,masks/fake/Malala_Harry_mask.png,1,train,Malala_Harry.png,output_512_pairwise_swap/Malala_Harry.png
+images/fake/Yann_Malala.png,masks/fake/Yann_Malala_mask.png,1,train,Yann_Malala.png,output_512_pairwise_swap/Yann_Malala.png
+images/fake/Yann_LaiChing-te.png,masks/fake/Yann_LaiChing-te_mask.png,1,train,Yann_LaiChing-te.png,output_512_pairwise_swap/Yann_LaiChing-te.png
+images/fake/Marilyn_Mana.png,masks/fake/Marilyn_Mana_mask.png,1,train,Marilyn_Mana.png,output_512_pairwise_swap/Marilyn_Mana.png
+images/fake/Malala_JackieChan.png,masks/fake/Malala_JackieChan_mask.png,1,train,Malala_JackieChan.png,output_512_pairwise_swap/Malala_JackieChan.png
+images/fake/Oprah_Malala.png,masks/fake/Oprah_Malala_mask.png,1,train,Oprah_Malala.png,output_512_pairwise_swap/Oprah_Malala.png
+images/fake/JackieChan_Jensen.png,masks/fake/JackieChan_Jensen_mask.png,1,train,JackieChan_Jensen.png,output_512_pairwise_swap/JackieChan_Jensen.png
+images/real/Oprah.png,masks/real/Oprah_mask.png,0,train,Oprah.png,output_512/Oprah.png
+images/fake/Harry_Mana.png,masks/fake/Harry_Mana_mask.png,1,train,Harry_Mana.png,output_512_pairwise_swap/Harry_Mana.png
+images/fake/Oprah_Marilyn.png,masks/fake/Oprah_Marilyn_mask.png,1,train,Oprah_Marilyn.png,output_512_pairwise_swap/Oprah_Marilyn.png
+images/fake/Mana_Yann.png,masks/fake/Mana_Yann_mask.png,1,val,Mana_Yann.png,output_512_pairwise_swap/Mana_Yann.png
+images/fake/Mana_LaiChing-te.png,masks/fake/Mana_LaiChing-te_mask.png,1,val,Mana_LaiChing-te.png,output_512_pairwise_swap/Mana_LaiChing-te.png
+images/fake/Harry_JackieChan.png,masks/fake/Harry_JackieChan_mask.png,1,val,Harry_JackieChan.png,output_512_pairwise_swap/Harry_JackieChan.png
+images/fake/JackieChan_Oprah.png,masks/fake/JackieChan_Oprah_mask.png,1,val,JackieChan_Oprah.png,output_512_pairwise_swap/JackieChan_Oprah.png
+images/fake/Yann_Harry.png,masks/fake/Yann_Harry_mask.png,1,val,Yann_Harry.png,output_512_pairwise_swap/Yann_Harry.png
+images/fake/Fei-Fei Li_Malala.png,masks/fake/Fei-Fei Li_Malala_mask.png,1,val,Fei-Fei Li_Malala.png,output_512_pairwise_swap/Fei-Fei Li_Malala.png
+images/fake/Marilyn_Malala.png,masks/fake/Marilyn_Malala_mask.png,1,val,Marilyn_Malala.png,output_512_pairwise_swap/Marilyn_Malala.png
+images/fake/Yann_Marilyn.png,masks/fake/Yann_Marilyn_mask.png,1,val,Yann_Marilyn.png,output_512_pairwise_swap/Yann_Marilyn.png
+images/fake/Malala_LaiChing-te.png,masks/fake/Malala_LaiChing-te_mask.png,1,val,Malala_LaiChing-te.png,output_512_pairwise_swap/Malala_LaiChing-te.png
+images/fake/JackieChan_Yann.png,masks/fake/JackieChan_Yann_mask.png,1,val,JackieChan_Yann.png,output_512_pairwise_swap/JackieChan_Yann.png
+images/fake/Sam_Mana.png,masks/fake/Sam_Mana_mask.png,1,val,Sam_Mana.png,output_512_pairwise_swap/Sam_Mana.png
+images/real/Harry.png,masks/real/Harry_mask.png,0,val,Harry.png,output_512/Harry.png
+images/fake/JackieChan_Sam.png,masks/fake/JackieChan_Sam_mask.png,1,test,JackieChan_Sam.png,output_512_pairwise_swap/JackieChan_Sam.png
+images/fake/Harry_Oprah.png,masks/fake/Harry_Oprah_mask.png,1,test,Harry_Oprah.png,output_512_pairwise_swap/Harry_Oprah.png
+images/fake/Oprah_Harry.png,masks/fake/Oprah_Harry_mask.png,1,test,Oprah_Harry.png,output_512_pairwise_swap/Oprah_Harry.png
+images/real/Yann.png,masks/real/Yann_mask.png,0,test,Yann.png,output_512/Yann.png
+images/fake/Jensen_Mana.png,masks/fake/Jensen_Mana_mask.png,1,test,Jensen_Mana.png,output_512_pairwise_swap/Jensen_Mana.png
+images/fake/Fei-Fei Li_LaiChing-te.png,masks/fake/Fei-Fei Li_LaiChing-te_mask.png,1,test,Fei-Fei Li_LaiChing-te.png,output_512_pairwise_swap/Fei-Fei Li_LaiChing-te.png
+images/fake/Yann_Mana.png,masks/fake/Yann_Mana_mask.png,1,test,Yann_Mana.png,output_512_pairwise_swap/Yann_Mana.png
+images/fake/Harry_LaiChing-te.png,masks/fake/Harry_LaiChing-te_mask.png,1,test,Harry_LaiChing-te.png,output_512_pairwise_swap/Harry_LaiChing-te.png
+images/fake/Oprah_Mana.png,masks/fake/Oprah_Mana_mask.png,1,test,Oprah_Mana.png,output_512_pairwise_swap/Oprah_Mana.png
+images/fake/Harry_Malala.png,masks/fake/Harry_Malala_mask.png,1,test,Harry_Malala.png,output_512_pairwise_swap/Harry_Malala.png
+images/fake/Sam_LaiChing-te.png,masks/fake/Sam_LaiChing-te_mask.png,1,test,Sam_LaiChing-te.png,output_512_pairwise_swap/Sam_LaiChing-te.png
+images/fake/Jensen_Harry.png,masks/fake/Jensen_Harry_mask.png,1,test,Jensen_Harry.png,output_512_pairwise_swap/Jensen_Harry.png

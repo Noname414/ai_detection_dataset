@@ -1,0 +1,13 @@
+path,mask_path,label
+images/fake/JackieChan_Sam.png,masks/fake/JackieChan_Sam_mask.png,1
+images/fake/Harry_Oprah.png,masks/fake/Harry_Oprah_mask.png,1
+images/fake/Oprah_Harry.png,masks/fake/Oprah_Harry_mask.png,1
+images/real/Yann.png,masks/real/Yann_mask.png,0
+images/fake/Jensen_Mana.png,masks/fake/Jensen_Mana_mask.png,1
+images/fake/Fei-Fei Li_LaiChing-te.png,masks/fake/Fei-Fei Li_LaiChing-te_mask.png,1
+images/fake/Yann_Mana.png,masks/fake/Yann_Mana_mask.png,1
+images/fake/Harry_LaiChing-te.png,masks/fake/Harry_LaiChing-te_mask.png,1
+images/fake/Oprah_Mana.png,masks/fake/Oprah_Mana_mask.png,1
+images/fake/Harry_Malala.png,masks/fake/Harry_Malala_mask.png,1
+images/fake/Sam_LaiChing-te.png,masks/fake/Sam_LaiChing-te_mask.png,1
+images/fake/Jensen_Harry.png,masks/fake/Jensen_Harry_mask.png,1

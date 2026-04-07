@@ -1,0 +1,98 @@
+path,mask_path,label
+images/fake/Fei-Fei Li_Harry.png,masks/fake/Fei-Fei Li_Harry_mask.png,1
+images/fake/LaiChing-te_Fei-Fei Li.png,masks/fake/LaiChing-te_Fei-Fei Li_mask.png,1
+images/fake/Fei-Fei Li_Mana.png,masks/fake/Fei-Fei Li_Mana_mask.png,1
+images/fake/Mana_Harry.png,masks/fake/Mana_Harry_mask.png,1
+images/fake/Marilyn_Sam.png,masks/fake/Marilyn_Sam_mask.png,1
+images/fake/Oprah_LaiChing-te.png,masks/fake/Oprah_LaiChing-te_mask.png,1
+images/real/Jensen.png,masks/real/Jensen_mask.png,0
+images/fake/Fei-Fei Li_Jensen.png,masks/fake/Fei-Fei Li_Jensen_mask.png,1
+images/fake/Malala_Marilyn.png,masks/fake/Malala_Marilyn_mask.png,1
+images/fake/Harry_Sam.png,masks/fake/Harry_Sam_mask.png,1
+images/fake/JackieChan_Malala.png,masks/fake/JackieChan_Malala_mask.png,1
+images/fake/Fei-Fei Li_Yann.png,masks/fake/Fei-Fei Li_Yann_mask.png,1
+images/fake/Malala_Yann.png,masks/fake/Malala_Yann_mask.png,1
+images/fake/Harry_Jensen.png,masks/fake/Harry_Jensen_mask.png,1
+images/fake/LaiChing-te_JackieChan.png,masks/fake/LaiChing-te_JackieChan_mask.png,1
+images/fake/Malala_Jensen.png,masks/fake/Malala_Jensen_mask.png,1
+images/fake/Mana_Fei-Fei Li.png,masks/fake/Mana_Fei-Fei Li_mask.png,1
+images/fake/Harry_Fei-Fei Li.png,masks/fake/Harry_Fei-Fei Li_mask.png,1
+images/fake/Jensen_Malala.png,masks/fake/Jensen_Malala_mask.png,1
+images/fake/LaiChing-te_Oprah.png,masks/fake/LaiChing-te_Oprah_mask.png,1
+images/fake/Mana_Malala.png,masks/fake/Mana_Malala_mask.png,1
+images/fake/LaiChing-te_Malala.png,masks/fake/LaiChing-te_Malala_mask.png,1
+images/fake/Marilyn_LaiChing-te.png,masks/fake/Marilyn_LaiChing-te_mask.png,1
+images/fake/Oprah_JackieChan.png,masks/fake/Oprah_JackieChan_mask.png,1
+images/fake/Marilyn_Oprah.png,masks/fake/Marilyn_Oprah_mask.png,1
+images/fake/LaiChing-te_Marilyn.png,masks/fake/LaiChing-te_Marilyn_mask.png,1
+images/fake/Oprah_Jensen.png,masks/fake/Oprah_Jensen_mask.png,1
+images/real/Fei-Fei Li.png,masks/real/Fei-Fei Li_mask.png,0
+images/fake/JackieChan_Harry.png,masks/fake/JackieChan_Harry_mask.png,1
+images/fake/Sam_Harry.png,masks/fake/Sam_Harry_mask.png,1
+images/fake/Harry_Yann.png,masks/fake/Harry_Yann_mask.png,1
+images/fake/LaiChing-te_Harry.png,masks/fake/LaiChing-te_Harry_mask.png,1
+images/fake/Yann_JackieChan.png,masks/fake/Yann_JackieChan_mask.png,1
+images/fake/Mana_Marilyn.png,masks/fake/Mana_Marilyn_mask.png,1
+images/fake/Sam_JackieChan.png,masks/fake/Sam_JackieChan_mask.png,1
+images/fake/Yann_Oprah.png,masks/fake/Yann_Oprah_mask.png,1
+images/fake/Sam_Oprah.png,masks/fake/Sam_Oprah_mask.png,1
+images/fake/Malala_Fei-Fei Li.png,masks/fake/Malala_Fei-Fei Li_mask.png,1
+images/fake/Fei-Fei Li_Sam.png,masks/fake/Fei-Fei Li_Sam_mask.png,1
+images/fake/Mana_Jensen.png,masks/fake/Mana_Jensen_mask.png,1
+images/fake/Mana_Oprah.png,masks/fake/Mana_Oprah_mask.png,1
+images/fake/Jensen_LaiChing-te.png,masks/fake/Jensen_LaiChing-te_mask.png,1
+images/fake/JackieChan_Marilyn.png,masks/fake/JackieChan_Marilyn_mask.png,1
+images/fake/Marilyn_Jensen.png,masks/fake/Marilyn_Jensen_mask.png,1
+images/fake/Harry_Marilyn.png,masks/fake/Harry_Marilyn_mask.png,1
+images/fake/Jensen_Marilyn.png,masks/fake/Jensen_Marilyn_mask.png,1
+images/real/LaiChing-te.png,masks/real/LaiChing-te_mask.png,0
+images/fake/Oprah_Fei-Fei Li.png,masks/fake/Oprah_Fei-Fei Li_mask.png,1
+images/fake/Sam_Fei-Fei Li.png,masks/fake/Sam_Fei-Fei Li_mask.png,1
+images/fake/Fei-Fei Li_Marilyn.png,masks/fake/Fei-Fei Li_Marilyn_mask.png,1
+images/real/JackieChan.png,masks/real/JackieChan_mask.png,0
+images/fake/Mana_Sam.png,masks/fake/Mana_Sam_mask.png,1
+images/fake/Jensen_Oprah.png,masks/fake/Jensen_Oprah_mask.png,1
+images/fake/Oprah_Yann.png,masks/fake/Oprah_Yann_mask.png,1
+images/fake/Jensen_JackieChan.png,masks/fake/Jensen_JackieChan_mask.png,1
+images/fake/Jensen_Yann.png,masks/fake/Jensen_Yann_mask.png,1
+images/fake/Malala_Sam.png,masks/fake/Malala_Sam_mask.png,1
+images/real/Mana.png,masks/real/Mana_mask.png,0
+images/real/Sam.png,masks/real/Sam_mask.png,0
+images/fake/Jensen_Fei-Fei Li.png,masks/fake/Jensen_Fei-Fei Li_mask.png,1
+images/fake/Yann_Sam.png,masks/fake/Yann_Sam_mask.png,1
+images/fake/Marilyn_JackieChan.png,masks/fake/Marilyn_JackieChan_mask.png,1
+images/fake/Yann_Jensen.png,masks/fake/Yann_Jensen_mask.png,1
+images/fake/Sam_Yann.png,masks/fake/Sam_Yann_mask.png,1
+images/fake/LaiChing-te_Mana.png,masks/fake/LaiChing-te_Mana_mask.png,1
+images/fake/Marilyn_Yann.png,masks/fake/Marilyn_Yann_mask.png,1
+images/fake/JackieChan_Fei-Fei Li.png,masks/fake/JackieChan_Fei-Fei Li_mask.png,1
+images/fake/Marilyn_Fei-Fei Li.png,masks/fake/Marilyn_Fei-Fei Li_mask.png,1
+images/real/Marilyn.png,masks/real/Marilyn_mask.png,0
+images/fake/JackieChan_Mana.png,masks/fake/JackieChan_Mana_mask.png,1
+images/fake/JackieChan_LaiChing-te.png,masks/fake/JackieChan_LaiChing-te_mask.png,1
+images/fake/Sam_Marilyn.png,masks/fake/Sam_Marilyn_mask.png,1
+images/fake/Sam_Jensen.png,masks/fake/Sam_Jensen_mask.png,1
+images/fake/Sam_Malala.png,masks/fake/Sam_Malala_mask.png,1
+images/fake/Mana_JackieChan.png,masks/fake/Mana_JackieChan_mask.png,1
+images/fake/Jensen_Sam.png,masks/fake/Jensen_Sam_mask.png,1
+images/fake/LaiChing-te_Jensen.png,masks/fake/LaiChing-te_Jensen_mask.png,1
+images/fake/Yann_Fei-Fei Li.png,masks/fake/Yann_Fei-Fei Li_mask.png,1
+images/fake/Fei-Fei Li_Oprah.png,masks/fake/Fei-Fei Li_Oprah_mask.png,1
+images/fake/LaiChing-te_Yann.png,masks/fake/LaiChing-te_Yann_mask.png,1
+images/fake/Malala_Mana.png,masks/fake/Malala_Mana_mask.png,1
+images/fake/Malala_Oprah.png,masks/fake/Malala_Oprah_mask.png,1
+images/fake/Marilyn_Harry.png,masks/fake/Marilyn_Harry_mask.png,1
+images/real/Malala.png,masks/real/Malala_mask.png,0
+images/fake/Oprah_Sam.png,masks/fake/Oprah_Sam_mask.png,1
+images/fake/LaiChing-te_Sam.png,masks/fake/LaiChing-te_Sam_mask.png,1
+images/fake/Fei-Fei Li_JackieChan.png,masks/fake/Fei-Fei Li_JackieChan_mask.png,1
+images/fake/Malala_Harry.png,masks/fake/Malala_Harry_mask.png,1
+images/fake/Yann_Malala.png,masks/fake/Yann_Malala_mask.png,1
+images/fake/Yann_LaiChing-te.png,masks/fake/Yann_LaiChing-te_mask.png,1
+images/fake/Marilyn_Mana.png,masks/fake/Marilyn_Mana_mask.png,1
+images/fake/Malala_JackieChan.png,masks/fake/Malala_JackieChan_mask.png,1
+images/fake/Oprah_Malala.png,masks/fake/Oprah_Malala_mask.png,1
+images/fake/JackieChan_Jensen.png,masks/fake/JackieChan_Jensen_mask.png,1
+images/real/Oprah.png,masks/real/Oprah_mask.png,0
+images/fake/Harry_Mana.png,masks/fake/Harry_Mana_mask.png,1
+images/fake/Oprah_Marilyn.png,masks/fake/Oprah_Marilyn_mask.png,1
