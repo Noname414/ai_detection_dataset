@@ -53,32 +53,37 @@ ai_detection_dataset/
 
 ## 4.1 Visual Examples
 
-Below are direct examples from this dataset.
+Below are direct examples from this dataset, shown in side-by-side grids.
 
-### Real Sample
+### Real Images
 
-![Real Example](images/real/Harry.png)
+| Harry | JackieChan | Jensen |
+|---|---|---|
+| ![Harry](images/real/Harry.png) | ![JackieChan](images/real/JackieChan.png) | ![Jensen](images/real/Jensen.png) |
 
-### Fake Sample
+| LaiChing-te | Malala | |
+|---|---|---|
+| ![LaiChing-te](images/real/LaiChing-te.png) | ![Malala](images/real/Malala.png) | |
 
-![Fake Example](images/fake/Harry_Jensen.png)
+### Fake Images
 
-### Real Mask
+| Harry->JackieChan | Harry->Jensen | Harry->LaiChing-te |
+|---|---|---|
+| ![Harry to JackieChan](images/fake/Harry_JackieChan.png) | ![Harry to Jensen](images/fake/Harry_Jensen.png) | ![Harry to LaiChing-te](images/fake/Harry_LaiChing-te.png) |
 
-![Real Mask Example](masks/real/Harry_mask.png)
+| Harry->Malala | Harry->Mana | |
+|---|---|---|
+| ![Harry to Malala](images/fake/Harry_Malala.png) | ![Harry to Mana](images/fake/Harry_Mana.png) | |
 
-### Fake Mask
+### Corresponding Masks
 
-![Fake Mask Example](masks/fake/Harry_Jensen_mask.png)
+| Real Mask (Harry) | Fake Mask (Harry->Jensen) | Fake Mask (Harry->Malala) |
+|---|---|---|
+| ![Harry Real Mask](masks/real/Harry_mask.png) | ![Harry Jensen Fake Mask](masks/fake/Harry_Jensen_mask.png) | ![Harry Malala Fake Mask](masks/fake/Harry_Malala_mask.png) |
 
-### Side-by-side Quick View
-
-| Type | Preview |
-|---|---|
-| Real | ![Real Side](images/real/Jensen.png) |
-| Fake | ![Fake Side](images/fake/Harry_Jensen.png) |
-| Real Mask | ![Real Mask Side](masks/real/Jensen_mask.png) |
-| Fake Mask | ![Fake Mask Side](masks/fake/Harry_Jensen_mask.png) |
+| Real Mask (Jensen) | Fake Mask (Harry->JackieChan) | Fake Mask (Harry->LaiChing-te) |
+|---|---|---|
+| ![Jensen Real Mask](masks/real/Jensen_mask.png) | ![Harry JackieChan Fake Mask](masks/fake/Harry_JackieChan_mask.png) | ![Harry LaiChing-te Fake Mask](masks/fake/Harry_LaiChing-te_mask.png) |
 
 ## 5. File Format
 
